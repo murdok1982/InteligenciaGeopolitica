@@ -1,0 +1,58 @@
+
+run:
+  days_back: 365
+  per_country_limit: 16
+  providers: ["gdelt", "newsapi"]
+  languages: ["es","en"]
+
+llm:
+  model: ${OPENAI_MODEL}
+  temperature: 0.5
+  max_tokens: 2000
+
+report:
+  output_dir: outputs
+  filename_prefix: reporte_inteligencia_global
+  include_tables: true
+
+countries:
+  - name: United States
+    code: US
+  - name: Canada
+    code: CA
+  - name: Mexico
+    code: MX
+  - name: Brazil
+    code: BR
+  - name: Argentina
+    code: AR
+  - name: United Kingdom
+    code: GB
+  - name: France
+    code: FR
+  - name: Germany
+    code: DE
+  - name: Russia
+    code: RU
+  - name: Ukraine
+    code: UA
+  - name: China
+    code: CN
+  - name: Japan
+    code: JP
+  - name: South Korea
+    code: KR
+  - name: India
+    code: IN
+  - name: Pakistan
+    code: PK
+  - name: Saudi Arabia
+    code: SA
+  - name: Egypt
+    code: EG
+  - name: South Africa
+    code: ZA
+  - name: Nigeria
+    code: NG
+  - name: Australia
+    code: AU

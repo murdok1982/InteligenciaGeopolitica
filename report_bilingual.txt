@@ -1,0 +1,31 @@
+
+# INFORME DE INTELIGENCIA ESTRATÉGICA GLOBAL
+_Periodo analizado: últimos 12 meses_
+
+## 📍 Versión en Español
+### Resumen Ejecutivo
+{{executive_summary_es}}
+
+### Síntesis Regional
+{{regional_synthesis_es}}
+
+### Análisis por País
+{{country_sections_es}}
+
+### Panorama Global y Previsiones
+{{global_overview_es}}
+
+---
+
+## 🌍 English Version
+### Executive Summary
+{{executive_summary_en}}
+
+### Regional Synthesis
+{{regional_synthesis_en}}
+
+### Country Analysis
+{{country_sections_en}}
+
+### Global Outlook & Forecasts
+{{global_overview_en}}

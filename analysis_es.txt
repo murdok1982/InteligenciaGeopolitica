@@ -1,0 +1,13 @@
+
+Analiza las noticias extraídas para {{country}} (región: {{region}}), clasificadas por:
+- Economía
+- Seguridad interior
+- Relaciones diplomáticas
+- Dinámica social
+
+Para cada categoría:
+- Resume los eventos más relevantes del último año
+- Identifica actores clave, causas y consecuencias
+- Evalúa riesgos y oportunidades estratégicas
+
+Devuelve un texto claro, con viñetas y subtítulos.

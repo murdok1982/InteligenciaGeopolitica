@@ -1,0 +1,8 @@
+
+Basándote en el análisis previo de {{country}}, elabora una previsión estratégica para los próximos:
+- 6 meses
+- 1 año
+- 3 años
+
+En las dimensiones: economía, seguridad interior, relaciones diplomáticas y dinámica social.
+Cierra con un breve párrafo sobre el rumbo del país y su posición regional.
